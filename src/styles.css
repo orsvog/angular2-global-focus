@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+.border {
+    position: relative;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.title {
+    position: absolute;
+    top: 2px;
+    left: 5px;
+    color: gray;
+    font-size: 14px;
+}
